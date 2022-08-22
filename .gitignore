@@ -3,3 +3,4 @@ include/*
 lib/*
 pyvenv.cfg
 *.wav
+src/keys.py
