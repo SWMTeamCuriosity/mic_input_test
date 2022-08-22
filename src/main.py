@@ -4,6 +4,7 @@ import logging
 import time
 from io import DEFAULT_BUFFER_SIZE
 import pyaudio
+import requests
 
 import websockets
 from keys import get_client_data
